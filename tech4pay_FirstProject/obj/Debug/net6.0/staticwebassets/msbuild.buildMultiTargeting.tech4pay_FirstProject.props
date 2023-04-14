@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\tech4pay_FirstProject.props" />
+</Project>
